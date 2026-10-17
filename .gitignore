@@ -1,2 +1,9 @@
 /.idea/
 /target
+
+# Local editor settings and generated files
+*.iml
+.vscode/
+/out/
+/target/
+*.class
